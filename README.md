@@ -1,9 +1,8 @@
 ## Hi there 👋 I'm Rahaf Mansour
-### Full stack web developer 👩‍💻 
+## Full stack web developer 👩‍💻 
 IS student at KKU interested in web development 
-- 🌱 I’m currently learning 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaf882&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact" />
 
 #### 📄Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
