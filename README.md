@@ -18,8 +18,9 @@ IS student at KKU interested in web development
 
 
 ## 📫 How to reach me:
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white (https://twitter.com/Rhfmn2))
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white (www.linkedin.com/in/rahafmansour882))
+- Rahafmansr@gmail.com
+<!--![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white (https://twitter.com/Rhfmn2))
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) (www.linkedin.com/in/rhfmnsr)--->
 
 
 
